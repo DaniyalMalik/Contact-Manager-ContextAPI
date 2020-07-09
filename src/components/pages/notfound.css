@@ -1,0 +1,8 @@
+.parent-notfound{
+    font-family:  Arial, Helvetica, sans-serif;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.child-notfound{
+    color: darkred;
+}
